@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/Users/maya.asalena/Downloads/Default_A_wide_starry_sky_over_the_sea_and_the_back_view_of_a_0_e100c4a8-54cb-4f04-a710-c8213727322d_1.jpg') no-repeat;
+    background: url('Default_A_wide_starry_sky_over_the_sea_and_the_back_view_of_a_0_e100c4a8-54cb-4f04-a710-c8213727322d_1.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
